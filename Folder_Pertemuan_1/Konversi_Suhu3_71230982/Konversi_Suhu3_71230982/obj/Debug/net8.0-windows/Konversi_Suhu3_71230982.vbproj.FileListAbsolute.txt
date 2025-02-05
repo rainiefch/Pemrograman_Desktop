@@ -1,0 +1,16 @@
+C:\Users\asus\source\repos\Konversi_Suhu3_71230982\Konversi_Suhu3_71230982\bin\Debug\net8.0-windows\Konversi_Suhu3_71230982.exe
+C:\Users\asus\source\repos\Konversi_Suhu3_71230982\Konversi_Suhu3_71230982\bin\Debug\net8.0-windows\Konversi_Suhu3_71230982.deps.json
+C:\Users\asus\source\repos\Konversi_Suhu3_71230982\Konversi_Suhu3_71230982\bin\Debug\net8.0-windows\Konversi_Suhu3_71230982.runtimeconfig.json
+C:\Users\asus\source\repos\Konversi_Suhu3_71230982\Konversi_Suhu3_71230982\bin\Debug\net8.0-windows\Konversi_Suhu3_71230982.dll
+C:\Users\asus\source\repos\Konversi_Suhu3_71230982\Konversi_Suhu3_71230982\bin\Debug\net8.0-windows\Konversi_Suhu3_71230982.pdb
+C:\Users\asus\source\repos\Konversi_Suhu3_71230982\Konversi_Suhu3_71230982\obj\Debug\net8.0-windows\Konversi_Suhu3_71230982.Form1.resources
+C:\Users\asus\source\repos\Konversi_Suhu3_71230982\Konversi_Suhu3_71230982\obj\Debug\net8.0-windows\Konversi_Suhu3_71230982.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\Konversi_Suhu3_71230982\Konversi_Suhu3_71230982\obj\Debug\net8.0-windows\Konversi_Suhu3_71230982.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\Konversi_Suhu3_71230982\Konversi_Suhu3_71230982\obj\Debug\net8.0-windows\Konversi_Suhu3_71230982.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Konversi_Suhu3_71230982\Konversi_Suhu3_71230982\obj\Debug\net8.0-windows\Konversi_Suhu3_71230982.AssemblyInfo.vb
+C:\Users\asus\source\repos\Konversi_Suhu3_71230982\Konversi_Suhu3_71230982\obj\Debug\net8.0-windows\Konversi_Suhu3_71230982.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Konversi_Suhu3_71230982\Konversi_Suhu3_71230982\obj\Debug\net8.0-windows\Konversi_Suhu3_71230982.dll
+C:\Users\asus\source\repos\Konversi_Suhu3_71230982\Konversi_Suhu3_71230982\obj\Debug\net8.0-windows\refint\Konversi_Suhu3_71230982.dll
+C:\Users\asus\source\repos\Konversi_Suhu3_71230982\Konversi_Suhu3_71230982\obj\Debug\net8.0-windows\Konversi_Suhu3_71230982.pdb
+C:\Users\asus\source\repos\Konversi_Suhu3_71230982\Konversi_Suhu3_71230982\obj\Debug\net8.0-windows\Konversi_Suhu3_71230982.genruntimeconfig.cache
+C:\Users\asus\source\repos\Konversi_Suhu3_71230982\Konversi_Suhu3_71230982\obj\Debug\net8.0-windows\ref\Konversi_Suhu3_71230982.dll
