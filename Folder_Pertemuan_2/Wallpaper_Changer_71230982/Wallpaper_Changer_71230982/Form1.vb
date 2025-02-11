@@ -39,28 +39,63 @@
         Next
     End Sub
 
-    Private Sub btnRun_Click(sender As Object, e As EventArgs) Handles btnRun.Click
+    'Private Sub btnRun_Click(sender As Object, e As EventArgs) Handles btnRun.Click
+    '    If cbInterval.SelectedIndex > -1 Then
+    '        If btnRun.Text = "Run!" Then
+    '            btnRun.Text = "Stop!"
+    '            Select Case cbInterval.SelectedIndex
+    '                Case 0
+    '                    interval = 10 * 1000
+    '                Case 1
+    '                    interval = 60 * 1000
+    '                Case 2
+    '                    interval = 3 * 60 * 1000
+    '                Case 3
+    '                    interval = 5 * 60 * 1000
+    '                Case 4
+    '                    interval = 10 * 60 * 1000
+    '                Case 5
+    '                    interval = 15 * 60 * 1000
+    '                Case 6
+    '                    interval = 30 * 60 * 1000
+    '                Case 7
+    '                    interval = 60 * 60 * 1000
+    '            End Select
+    '            TimerWall.Interval = interval
+    '            TimerWall.Enabled = True
+    '            timerElapsed.Enabled = True
+    '        Else
+    '            btnRun.Text = "Run!"
+    '            TimerWall.Enabled = False
+    '            indeks = 0
+    '            counter = 0
+    '            ToolStripStatusReady.Text = "Ready."
+    '            timerElapsed.Enabled = False
+    '        End If
+    '    End If
+    'End Sub
+    Private Sub btnRun_Click(sender As System.Object, e As System.EventArgs) Handles btnRun.Click
         If cbInterval.SelectedIndex > -1 Then
             If btnRun.Text = "Run!" Then
                 btnRun.Text = "Stop!"
-                Select Case cbInterval.SelectedIndex
-                    Case 0
-                        interval = 10 * 1000
-                    Case 1
-                        interval = 60 * 1000
-                    Case 2
-                        interval = 3 * 60 * 1000
-                    Case 3
-                        interval = 5 * 60 * 1000
-                    Case 4
-                        interval = 10 * 60 * 1000
-                    Case 5
-                        interval = 15 * 60 * 1000
-                    Case 6
-                        interval = 30 * 60 * 1000
-                    Case 7
-                        interval = 60 * 60 * 1000
-                End Select
+                If cbInterval.SelectedIndex = 0 Then
+                    interval = 10 * 1000
+                ElseIf cbInterval.SelectedIndex = 1 Then
+                    interval = 60 * 1000
+                ElseIf cbInterval.SelectedIndex = 2 Then
+                    interval = 3 * 60 * 1000
+                ElseIf cbInterval.SelectedIndex = 3 Then
+                    interval = 5 * 60 * 1000
+                ElseIf cbInterval.SelectedIndex = 4 Then
+                    interval = 10 * 60 * 1000
+                ElseIf cbInterval.SelectedIndex = 5 Then
+                    interval = 15 * 60 * 1000
+                ElseIf cbInterval.SelectedIndex = 6 Then
+                    interval = 30 * 60 * 1000
+                ElseIf cbInterval.SelectedIndex = 7 Then
+                    interval = 60 * 60 * 1000
+                End If
+
                 TimerWall.Interval = interval
                 TimerWall.Enabled = True
                 timerElapsed.Enabled = True
