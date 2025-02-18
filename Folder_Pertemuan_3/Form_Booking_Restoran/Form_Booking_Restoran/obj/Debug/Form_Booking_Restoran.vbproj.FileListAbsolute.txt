@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\Form_Booking_Restoran\Form_Booking_Restoran\bin\Debug\Form_Booking_Restoran.exe.config
+C:\Users\asus\source\repos\Form_Booking_Restoran\Form_Booking_Restoran\bin\Debug\Form_Booking_Restoran.exe
+C:\Users\asus\source\repos\Form_Booking_Restoran\Form_Booking_Restoran\bin\Debug\Form_Booking_Restoran.pdb
+C:\Users\asus\source\repos\Form_Booking_Restoran\Form_Booking_Restoran\bin\Debug\Form_Booking_Restoran.xml
+C:\Users\asus\source\repos\Form_Booking_Restoran\Form_Booking_Restoran\obj\Debug\Form_Booking_Restoran.vbproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Form_Booking_Restoran\Form_Booking_Restoran\obj\Debug\Form_Booking_Restoran.Form1.resources
+C:\Users\asus\source\repos\Form_Booking_Restoran\Form_Booking_Restoran\obj\Debug\Form_Booking_Restoran.Form2.resources
+C:\Users\asus\source\repos\Form_Booking_Restoran\Form_Booking_Restoran\obj\Debug\Form_Booking_Restoran.Resources.resources
+C:\Users\asus\source\repos\Form_Booking_Restoran\Form_Booking_Restoran\obj\Debug\Form_Booking_Restoran.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\Form_Booking_Restoran\Form_Booking_Restoran\obj\Debug\Form_Booking_Restoran.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Form_Booking_Restoran\Form_Booking_Restoran\obj\Debug\Form_Booking_Restoran.exe
+C:\Users\asus\source\repos\Form_Booking_Restoran\Form_Booking_Restoran\obj\Debug\Form_Booking_Restoran.xml
+C:\Users\asus\source\repos\Form_Booking_Restoran\Form_Booking_Restoran\obj\Debug\Form_Booking_Restoran.pdb
