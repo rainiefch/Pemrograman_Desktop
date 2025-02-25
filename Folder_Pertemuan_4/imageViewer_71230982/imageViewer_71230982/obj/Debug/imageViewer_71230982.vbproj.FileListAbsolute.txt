@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\imageViewer_71230982\imageViewer_71230982\bin\Debug\imageViewer_71230982.exe.config
+C:\Users\asus\source\repos\imageViewer_71230982\imageViewer_71230982\bin\Debug\imageViewer_71230982.exe
+C:\Users\asus\source\repos\imageViewer_71230982\imageViewer_71230982\bin\Debug\imageViewer_71230982.pdb
+C:\Users\asus\source\repos\imageViewer_71230982\imageViewer_71230982\bin\Debug\imageViewer_71230982.xml
+C:\Users\asus\source\repos\imageViewer_71230982\imageViewer_71230982\bin\Debug\XmpCore.dll
+C:\Users\asus\source\repos\imageViewer_71230982\imageViewer_71230982\bin\Debug\XmpCore.xml
+C:\Users\asus\source\repos\imageViewer_71230982\imageViewer_71230982\obj\Debug\imageViewer_71230982.vbproj.AssemblyReference.cache
+C:\Users\asus\source\repos\imageViewer_71230982\imageViewer_71230982\obj\Debug\imageViewer_71230982.Form1.resources
+C:\Users\asus\source\repos\imageViewer_71230982\imageViewer_71230982\obj\Debug\imageViewer_71230982.Resources.resources
+C:\Users\asus\source\repos\imageViewer_71230982\imageViewer_71230982\obj\Debug\imageViewer_71230982.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\imageViewer_71230982\imageViewer_71230982\obj\Debug\imageViewer_71230982.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\imageViewer_71230982\imageViewer_71230982\obj\Debug\imageVie.57BFA755.Up2Date
+C:\Users\asus\source\repos\imageViewer_71230982\imageViewer_71230982\obj\Debug\imageViewer_71230982.exe
+C:\Users\asus\source\repos\imageViewer_71230982\imageViewer_71230982\obj\Debug\imageViewer_71230982.xml
+C:\Users\asus\source\repos\imageViewer_71230982\imageViewer_71230982\obj\Debug\imageViewer_71230982.pdb
