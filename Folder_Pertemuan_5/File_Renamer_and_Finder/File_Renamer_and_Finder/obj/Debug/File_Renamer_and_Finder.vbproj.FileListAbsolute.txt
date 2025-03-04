@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\File_Renamer_and_Finder\File_Renamer_and_Finder\bin\Debug\File_Renamer_and_Finder.exe.config
+C:\Users\asus\source\repos\File_Renamer_and_Finder\File_Renamer_and_Finder\bin\Debug\File_Renamer_and_Finder.exe
+C:\Users\asus\source\repos\File_Renamer_and_Finder\File_Renamer_and_Finder\bin\Debug\File_Renamer_and_Finder.pdb
+C:\Users\asus\source\repos\File_Renamer_and_Finder\File_Renamer_and_Finder\bin\Debug\File_Renamer_and_Finder.xml
+C:\Users\asus\source\repos\File_Renamer_and_Finder\File_Renamer_and_Finder\obj\Debug\File_Renamer_and_Finder.vbproj.AssemblyReference.cache
+C:\Users\asus\source\repos\File_Renamer_and_Finder\File_Renamer_and_Finder\obj\Debug\File_Renamer_and_Finder.Form1.resources
+C:\Users\asus\source\repos\File_Renamer_and_Finder\File_Renamer_and_Finder\obj\Debug\File_Renamer_and_Finder.Resources.resources
+C:\Users\asus\source\repos\File_Renamer_and_Finder\File_Renamer_and_Finder\obj\Debug\File_Renamer_and_Finder.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\File_Renamer_and_Finder\File_Renamer_and_Finder\obj\Debug\File_Renamer_and_Finder.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\File_Renamer_and_Finder\File_Renamer_and_Finder\obj\Debug\File_Renamer_and_Finder.exe
+C:\Users\asus\source\repos\File_Renamer_and_Finder\File_Renamer_and_Finder\obj\Debug\File_Renamer_and_Finder.xml
+C:\Users\asus\source\repos\File_Renamer_and_Finder\File_Renamer_and_Finder\obj\Debug\File_Renamer_and_Finder.pdb
