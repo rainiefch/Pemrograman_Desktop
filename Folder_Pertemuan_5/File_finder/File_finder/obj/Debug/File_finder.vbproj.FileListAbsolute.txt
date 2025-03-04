@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\File_finder\File_finder\obj\Debug\File_finder.vbproj.AssemblyReference.cache
+C:\Users\asus\source\repos\File_finder\File_finder\obj\Debug\File_finder.Form1.resources
+C:\Users\asus\source\repos\File_finder\File_finder\obj\Debug\File_finder.Resources.resources
+C:\Users\asus\source\repos\File_finder\File_finder\obj\Debug\File_finder.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\File_finder\File_finder\obj\Debug\File_finder.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\File_finder\File_finder\bin\Debug\File_finder.exe.config
+C:\Users\asus\source\repos\File_finder\File_finder\bin\Debug\File_finder.exe
+C:\Users\asus\source\repos\File_finder\File_finder\bin\Debug\File_finder.pdb
+C:\Users\asus\source\repos\File_finder\File_finder\bin\Debug\File_finder.xml
+C:\Users\asus\source\repos\File_finder\File_finder\obj\Debug\File_finder.exe
+C:\Users\asus\source\repos\File_finder\File_finder\obj\Debug\File_finder.xml
+C:\Users\asus\source\repos\File_finder\File_finder\obj\Debug\File_finder.pdb
