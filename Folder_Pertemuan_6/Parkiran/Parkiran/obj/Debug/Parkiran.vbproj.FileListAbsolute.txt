@@ -1,0 +1,16 @@
+C:\Users\asus\source\repos\Parkiran\Parkiran\obj\Debug\Parkiran.vbproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Parkiran\Parkiran\obj\Debug\Parkiran.Resources.resources
+C:\Users\asus\source\repos\Parkiran\Parkiran\obj\Debug\Parkiran.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\Parkiran\Parkiran\obj\Debug\Parkiran.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Parkiran\Parkiran\bin\Debug\Parkiran.exe.config
+C:\Users\asus\source\repos\Parkiran\Parkiran\bin\Debug\Parkiran.exe
+C:\Users\asus\source\repos\Parkiran\Parkiran\bin\Debug\Parkiran.pdb
+C:\Users\asus\source\repos\Parkiran\Parkiran\bin\Debug\Parkiran.xml
+C:\Users\asus\source\repos\Parkiran\Parkiran\obj\Debug\Parkiran.Form1.resources
+C:\Users\asus\source\repos\Parkiran\Parkiran\obj\Debug\Parkiran.Form2.resources
+C:\Users\asus\source\repos\Parkiran\Parkiran\obj\Debug\Parkiran.Form3.resources
+C:\Users\asus\source\repos\Parkiran\Parkiran\obj\Debug\Parkiran.Form4.resources
+C:\Users\asus\source\repos\Parkiran\Parkiran\obj\Debug\Parkiran.Form5.resources
+C:\Users\asus\source\repos\Parkiran\Parkiran\obj\Debug\Parkiran.exe
+C:\Users\asus\source\repos\Parkiran\Parkiran\obj\Debug\Parkiran.xml
+C:\Users\asus\source\repos\Parkiran\Parkiran\obj\Debug\Parkiran.pdb
